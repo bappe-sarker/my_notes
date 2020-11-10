@@ -1,0 +1,4 @@
+for windows priv escalation there are many tools regarding this.
+
+Tools-1[winPEAS]
+https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS
